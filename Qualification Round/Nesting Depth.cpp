@@ -1,3 +1,4 @@
+//Greedy in order to minimze parentheses.
 #include <bits/stdc++.h>
 using namespace std; 
 #define endl '\n'
